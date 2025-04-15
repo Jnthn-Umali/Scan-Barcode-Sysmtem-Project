@@ -1,0 +1,13 @@
+{
+    "name": "jonat/fantastic",
+    "description": "none",
+    "authors": [
+        {
+            "name": "none"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^3.2",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
